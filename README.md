@@ -24,3 +24,21 @@ It is **not** a tutorial, a course, or a public knowledge base.
 * Let the structure evolve naturally.
 
 > If I have to Google the same thing twice, it probably belongs here.
+>
+> 
+______________________________________________INDEX_____________________________________
+
+
+Personal Engineering Playbook
+│
+├── AI
+├── Backend
+├── Frontend
+├── Python
+├── Docker
+├── Git
+├── SpecKit
+├── Databases
+├── Linux
+├── Templates
+└── Lessons Learned
