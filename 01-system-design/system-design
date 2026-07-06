@@ -1,0 +1,10 @@
+  00-system-design-procedure.md
+  01-requirements.md
+  02-domain-model.md
+  03-api-design.md
+  04-data-model.md
+  05-architecture.md
+  06-security.md
+  07-scalability.md
+  08-trade-offs.md
+  09-adrs/
